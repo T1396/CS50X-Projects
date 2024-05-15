@@ -1,0 +1,12 @@
+sort1 uses: bubble sort
+
+How do you know?: because it was finishing sorting a already sorted list very fast compared to random list and reversed lists
+
+sort2 uses: merge sort
+
+How do you know?: in aspects of sorting random /sorted/ reversed lists, it was all nearly the same time it needed, the difference between 5000 and 50000 elements was not even nearly as much as the other 2 sorting algorithms, so it just can be merge sort
+
+sort3 uses: selection sort
+
+How do you know?: in the best, worst and average case the results were all nearly the same, so it must be selection sort which has O(n²), Omega(n²) and Theta(n²)
+                  also, the time growth between 5000 und 50000 is such big compared to sort 2, that it speaks for the fact its a exponential sort algorithm
